@@ -1,0 +1,24 @@
+{
+  "name": "linguini-pasta-reciepe-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanSkiffington/linguini-pasta-reciepe-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanSkiffington/linguini-pasta-reciepe-/issues"
+  },
+  "homepage": "https://github.com/BryanSkiffington/linguini-pasta-reciepe-#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
